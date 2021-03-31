@@ -1,0 +1,14 @@
+# Other files
+*.model
+*.wav
+*.mp4
+*.pcm
+data/
+exps/
+core.*
+*.yaml
+*.npy
+*.png
+*/*.pth
+__pycache__/
+.vscode
