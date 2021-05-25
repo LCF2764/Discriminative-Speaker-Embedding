@@ -1,5 +1,4 @@
 # Other files
-*.model
 *.wav
 *.mp4
 *.pcm
@@ -8,6 +7,5 @@ exps/
 core.*
 *.npy
 *.png
-*/*.pth
 __pycache__/
 .vscode
